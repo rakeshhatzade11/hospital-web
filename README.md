@@ -1,6 +1,4 @@
-# Hackathon Project: Healthcare Website
-
-This repository contains the project for DevJam Season 1 Hackathon, held from May 14th, 2023, to May 15th, 2023. The project is a healthcare website that provides therapy services to users, helping them overcome various problems and improve their health. The project is released under the MIT License.
+# Mini Project - Hospital Website
 
 ## Table of Contents
 - [Introduction](#introduction)
